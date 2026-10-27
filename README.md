@@ -1,6 +1,6 @@
 # Machine learning, deep learning et data mining — travaux pratiques
 
-Notebooks Python réalisés sur Google Colab pendant mon cursus universitaire : vision par
+Notebooks Python réalisés sur Google Colab pendant mon cycle d'ingénieur en informatique (technologies du web et du multimédia) : vision par
 ordinateur, analyse de données, apprentissage supervisé et non supervisé, réseaux de
 neurones et graphes.
 
